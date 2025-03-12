@@ -34,7 +34,7 @@ Gosto de me desafiar, de aprender coisas novas e de sempre buscar maneiras de me
 
 Análise e Desenvolvimento de Sistemas - 99%
 
-## GitHub Stats 📊
+## GitHub Stats 📊 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roessler00&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
