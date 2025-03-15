@@ -38,8 +38,8 @@ Análise e Desenvolvimento de Sistemas - 99%
 
 ## Cursos e Bootcamps 👾
 
-![image](https://github.com/user-attachments/assets/241199a9-3341-4ecd-b007-e9a878296461)
-![image](https://github.com/user-attachments/assets/8a2ebbab-c126-4d04-88f4-8c8a0e88527e)
+[![image](https://github.com/user-attachments/assets/241199a9-3341-4ecd-b007-e9a878296461)](https://web.dio.me/track/formacao-logica-de-programacao)
+[![image](https://github.com/user-attachments/assets/8a2ebbab-c126-4d04-88f4-8c8a0e88527e)](https://web.dio.me/track/gft-start-logica-de-programacao)
 
 
 
