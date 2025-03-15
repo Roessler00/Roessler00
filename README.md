@@ -36,6 +36,13 @@ Gosto de me desafiar, de aprender coisas novas e de sempre buscar maneiras de me
 
 Análise e Desenvolvimento de Sistemas - 99%
 
+## Cursos e Bootcamps 👾
+
+![image](https://github.com/user-attachments/assets/241199a9-3341-4ecd-b007-e9a878296461)
+![image](https://github.com/user-attachments/assets/8a2ebbab-c126-4d04-88f4-8c8a0e88527e)
+
+
+
 ## GitHub Stats 📊 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roessler00&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&cache_seconds=1800&token=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)
