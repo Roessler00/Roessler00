@@ -40,6 +40,7 @@ Análise e Desenvolvimento de Sistemas - 99%
 
 [![image](https://github.com/user-attachments/assets/241199a9-3341-4ecd-b007-e9a878296461)](https://web.dio.me/track/formacao-logica-de-programacao)
 [![image](https://github.com/user-attachments/assets/8a2ebbab-c126-4d04-88f4-8c8a0e88527e)](https://web.dio.me/track/gft-start-logica-de-programacao)
+[![image](https://github.com/user-attachments/assets/9a3aba46-44ff-4622-8e7f-314f2dd42c87)](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial)
 
 
 
