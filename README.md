@@ -1,7 +1,5 @@
 # Roessler00 
 
-![piada-pao-ovo](https://github.com/user-attachments/assets/c088bd9e-c02d-422b-bd11-1d288d871d99)
-
 ## Sobre mim 📖
 
 Oi, sou o João Roessler! Estou quase me formando em Análise e Desenvolvimento de Sistemas e, no momento, estou me aprofundando no estudo de Desenvolvimento Back-End. Já tenho uma boa base em HTML e CSS e, agora, estou aprofundando meus conhecimentos em JavaScript para expandir ainda mais minhas habilidades.
