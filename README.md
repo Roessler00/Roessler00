@@ -46,6 +46,8 @@ Análise e Desenvolvimento de Sistemas - 99%
 [![image](https://github.com/user-attachments/assets/9a3aba46-44ff-4622-8e7f-314f2dd42c87)](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial)
 [![image](https://github.com/user-attachments/assets/10aed235-b3b1-4f6c-b1d2-985101e33311)](https://web.dio.me/track/formacao-javascript-developer)
 [![image](https://github.com/user-attachments/assets/4088da8e-5696-4825-9ef2-1f15e6179200)](https://web.dio.me/course/introducao-ao-nodejs-com-expresses/learning/3f18da80-2051-44dd-b065-562751093ac3?autoplay=1)
+![image](https://github.com/user-attachments/assets/23007e6f-2cdd-4254-abcc-be3806fa6780)
+
 
 
 
