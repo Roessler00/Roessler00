@@ -16,7 +16,7 @@ Gosto de me desafiar, de aprender coisas novas e de sempre buscar maneiras de me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoroessler/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.roessler00/)
 [![Acesse meu site](https://img.shields.io/badge/Acesse_meu_site-1C3A61?style=for-the-badge&logo=link&logoColor=white)](https://roesslerdev.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://roesslerdev.com/](https://roessler00.github.io/portfolio-page-dio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://roessler00.github.io/portfolio-page-dio/)
 
 ## Habilidades 💻
 
