@@ -2,7 +2,7 @@
 
 ## Sobre mim 📖
 
-Oi, sou o João Roessler! Estou quase me formando em Análise e Desenvolvimento de Sistemas e, no momento, estou me aprofundando no estudo de Desenvolvimento Back-End. Já tenho uma boa base em HTML e CSS e, agora, estou aprofundando meus conhecimentos em JavaScript para expandir ainda mais minhas habilidades.
+Oi, sou o João Roessler! Estou quase me formando em Análise e Desenvolvimento de Sistemas e, no momento, estou me aprofundando no estudo de Desenvolvimento Back-End. Já tenho uma boa base em HTML e CSS e, agora, estou aprofundando meus conhecimentos em JavaScript e TypeScript para expandir ainda mais minhas habilidades.
 
 Meu grande objetivo é entrar para o universo da TI e, em breve, poder trabalhar criando tecnologia que faça a diferença na vida das pessoas. Sou apaixonado por aprender sobre tecnologia e estou sempre buscando novos desafios. Acredito que o aprendizado contínuo é o caminho para crescer tanto na vida profissional quanto pessoal.
 
